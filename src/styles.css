@@ -1,0 +1,26 @@
+body {
+	font-family: sans-serif;
+}
+
+button {
+	background: tomato;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 4px;
+	margin-top: 10px;
+	font-weight: bold;
+	color: #fff;
+}
+
+button:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+form {
+	max-width: 800px;
+}
+
+input {
+	width: calc(100% - 8px);
+}
