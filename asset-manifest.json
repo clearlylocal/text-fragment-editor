@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/text-fragment-editor/static/css/main.e7f5e5b5.chunk.css",
+    "main.js": "/text-fragment-editor/static/js/main.09016193.chunk.js",
+    "main.js.map": "/text-fragment-editor/static/js/main.09016193.chunk.js.map",
+    "runtime-main.js": "/text-fragment-editor/static/js/runtime-main.670b7eb1.js",
+    "runtime-main.js.map": "/text-fragment-editor/static/js/runtime-main.670b7eb1.js.map",
+    "static/js/2.121dd7ce.chunk.js": "/text-fragment-editor/static/js/2.121dd7ce.chunk.js",
+    "static/js/2.121dd7ce.chunk.js.map": "/text-fragment-editor/static/js/2.121dd7ce.chunk.js.map",
+    "index.html": "/text-fragment-editor/index.html",
+    "static/css/main.e7f5e5b5.chunk.css.map": "/text-fragment-editor/static/css/main.e7f5e5b5.chunk.css.map",
+    "static/js/2.121dd7ce.chunk.js.LICENSE.txt": "/text-fragment-editor/static/js/2.121dd7ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.670b7eb1.js",
+    "static/js/2.121dd7ce.chunk.js",
+    "static/css/main.e7f5e5b5.chunk.css",
+    "static/js/main.09016193.chunk.js"
+  ]
+}
